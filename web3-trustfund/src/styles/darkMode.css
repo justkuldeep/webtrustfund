@@ -1,0 +1,20 @@
+.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+.dark-mode-btn {
+    background: #ff8c00;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-top: 10px;
+}
+
+.dark-mode-btn:hover {
+    background: #e07b00;
+}

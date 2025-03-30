@@ -1,0 +1,22 @@
+.recent-donations {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.recent-donations h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.donation-list {
+    list-style: none;
+    padding: 0;
+}
+
+.donation-list li {
+    margin: 5px 0;
+    font-size: 1rem;
+}
